@@ -1,3 +1,4 @@
+//link tải DEVC++: https://www.embarcadero.com/free-tools/dev-cpp //
 #include <iostream>
 #include <string>
 #include <algorithm>
